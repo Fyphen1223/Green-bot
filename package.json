@@ -26,7 +26,7 @@
         "discord-hybrid-sharding": "github:meister03/discord-hybrid-sharding",
         "eris": "^0.17.1",
         "eris-utilities": "^0.1.5",
-        "express": "^4.17.3",
+        "express": "^4.19.2",
         "kurasuta": "^3.0.1",
         "moment": "^2.29.1",
         "mongoose": "^6.2.4",
